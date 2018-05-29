@@ -10,6 +10,6 @@
 
 4、有星期参与统计的数据处理，运行WeekCountResult
 
-5,没有星期参与统计的数据处理,运行noWeekCountResult
+5、没有星期参与统计的数据处理,运行noWeekCountResult
 
-6，nextResult：按照比赛要求生成相应格式的数据，进行了重新拍讯
+6、nextResult：按照比赛要求生成相应格式的数据，进行了重新拍讯
