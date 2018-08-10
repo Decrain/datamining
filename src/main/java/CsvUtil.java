@@ -29,7 +29,7 @@ public class CsvUtil {
                 System.out.print(csvList.get(row)[0]+",");
                 System.out.print(csvList.get(row)[1]+",");
                 System.out.print(csvList.get(row)[2]+",");
-                //如果第一列（即姓名列）包含lisa，则打印出lisa的年龄
+               
             }
 
         } catch (Exception e) {
